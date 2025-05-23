@@ -16,6 +16,7 @@ copyIconEl.addEventListener('click',()=>{
         }, 2000);
     }
 })
+
 function createPassword() {
     const chars="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%^&*()_+";
     const passwardLength=14;
